@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Digest-Groestl
-version:            0.01
+version:            0.02
 abstract:           Perl interface to the Groestl digest algorithm
 author:
     - gray <gray@cpan.org>
